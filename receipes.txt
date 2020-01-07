@@ -10,4 +10,7 @@ pongal
 meals
 caurd rice
 
+chapathi
+nan
+
 thank you 
